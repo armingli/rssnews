@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-29T01:40:07.548Z</id>
+    <id>urn:2025-03-30T01:47:41.717Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-29T01:40:07.548Z</updated>
+    <updated>2025-03-30T01:47:41.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -268,6 +268,25 @@ A CSS-Only Star Rating Component and More! (Part 2) originally published on CSS-
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Helium美國0月租手机号申請教程]]></title>
+        <id>67299-58</id>
+        <link href="https://xlog.app/api/redirection?characterId=67299&amp;noteId=58"/>
+        <updated>2025-03-07T11:11:11.000Z</updated>
+        <summary type="html"><![CDATA[Helium Mobile 是 0 月租的美國卡（可 ESIM） 理論可以免流，但是我一直沒找到訊號，無法測試
+
+但可以 wifi call
+
+想玩需要內測邀请码，否则只能 join waitlist
+ 放一下我的邀请码：96G47TJ
+ 还有 5 个名额哈
+
+👑官方 APP：
+ 苹果…]]></summary>
+        <author>
+            <name>KowLoon</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Maybe don’t use custom properties in shorthand properties]]></title>
         <id>https://css-tricks.com/?p=385117</id>
         <link href="https://css-tricks.com/maybe-dont-use-custom-properties-in-shorthand-properties/"/>
@@ -321,6 +340,24 @@ Functions in CSS?! originally published on CSS-Tricks, which is part of the Digi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[香港华盛证券3月加码奖励]]></title>
+        <id>67299-57</id>
+        <link href="https://xlog.app/api/redirection?characterId=67299&amp;noteId=57"/>
+        <updated>2025-03-02T02:11:11.000Z</updated>
+        <summary type="html"><![CDATA[黐住華盛 投資唔使懵盛盛 於活動期間首次成功完成線上開戶並成功存款不少於 HK$10,000，维持 31 天
+
+华盛证券 3 月活动更新，比平常多给 200HKD 现金券
+
+‼️资金占用一个月
+
+👉香港券商，开户门槛较低
+
+https://www.hstbroker.com/kh…]]></summary>
+        <author>
+            <name>KowLoon</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A CSS-Only Star Rating Component and More! (Part 1)]]></title>
         <id>https://css-tricks.com/?p=384906</id>
         <link href="https://css-tricks.com/a-css-only-star-rating-component-and-more-part-1/"/>
@@ -329,16 +366,6 @@ Functions in CSS?! originally published on CSS-Tricks, which is part of the Digi
 A CSS-Only Star Rating Component and More! (Part 1) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sunshine And March Vibes (2025 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2025/02/desktop-wallpaper-calendars-march-2025/</id>
-        <link href="https://smashingmagazine.com/2025/02/desktop-wallpaper-calendars-march-2025/"/>
-        <updated>2025-02-28T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
