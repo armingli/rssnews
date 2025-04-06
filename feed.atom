@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-05T01:39:32.638Z</id>
+    <id>urn:2025-04-06T01:46:20.896Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-05T01:39:32.638Z</updated>
+    <updated>2025-04-06T01:46:20.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -454,47 +454,6 @@ Powering Search With Astro Actions and Fuse.js originally published on CSS-Trick
         <updated>2025-03-10T15:08:47.000Z</updated>
         <summary type="html"><![CDATA[The videos from Smashing Magazine's recent event on accessibility were just posted the other day. I was invited to host the panel discussion with the speakers, including a couple of personal heroes of mine, Stéphanie Walter and Sarah Fossheim. But I was just as stoked to meet Kardo Ayoub who shared his deeply personal story as a designer with a major visual impairment.
 Smashing Meets Accessibility originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A CSS-Only Star Rating Component and More! (Part 2)]]></title>
-        <id>https://css-tricks.com/?p=384919</id>
-        <link href="https://css-tricks.com/a-css-only-star-rating-component-and-more-part-2/"/>
-        <updated>2025-03-07T13:14:12.000Z</updated>
-        <summary type="html"><![CDATA[In this second article of a two-part series, Temani Afif demonstrates an alternative approach to creating the star rating component from the first article using experimental scroll-driven animations rather than using the border-image property.
-A CSS-Only Star Rating Component and More! (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Helium美國0月租手机号申請教程]]></title>
-        <id>67299-58</id>
-        <link href="https://xlog.app/api/redirection?characterId=67299&amp;noteId=58"/>
-        <updated>2025-03-07T11:11:11.000Z</updated>
-        <summary type="html"><![CDATA[Helium Mobile 是 0 月租的美國卡（可 ESIM） 理論可以免流，但是我一直沒找到訊號，無法測試
-
-但可以 wifi call
-
-想玩需要內測邀请码，否则只能 join waitlist
- 放一下我的邀请码：96G47TJ
- 还有 5 个名额哈
-
-👑官方 APP：
- 苹果…]]></summary>
-        <author>
-            <name>KowLoon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maybe don’t use custom properties in shorthand properties]]></title>
-        <id>https://css-tricks.com/?p=385117</id>
-        <link href="https://css-tricks.com/maybe-dont-use-custom-properties-in-shorthand-properties/"/>
-        <updated>2025-03-06T16:33:55.000Z</updated>
-        <summary type="html"><![CDATA[This easily qualifies as a "gotcha" in CSS and is a good reminder that the cascade doesn't know everything all at the same time. If a custom property is invalid, the cascade won't ignore it, and it gets evaluated, which invalidates the declaration.
-Maybe don’t use custom properties in shorthand properties originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
         </author>
