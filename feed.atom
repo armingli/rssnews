@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-19T01:39:12.599Z</id>
+    <id>urn:2025-04-20T01:49:09.174Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-19T01:39:12.599Z</updated>
+    <updated>2025-04-20T01:49:09.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -180,6 +180,18 @@ Next Level CSS Styling for Cursors originally published on CSS-Tricks, which is 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ClawCloud 免费容器服务，可跑青龙面板]]></title>
+        <id>67299-67</id>
+        <link href="https://xlog.app/api/redirection?characterId=67299&amp;noteId=67"/>
+        <updated>2025-04-13T11:11:11.000Z</updated>
+        <summary type="html"><![CDATA[ClawCloud 免费容器服务，每月 5 美刀额度，可以跑青龙面板等 dokcer 容器 5 美元额度需要 180 天以上的 github 账号注册
+ 此免费容器不需绑定信用卡！
+ 注册链接：https://console.run.claw.cloud/signin?link…]]></summary>
+        <author>
+            <name>KowLoon</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CSS-Tricks Chronicles XLIII]]></title>
         <id>https://css-tricks.com/?p=385404</id>
         <link href="https://css-tricks.com/css-tricks-chronicles-xliii/"/>
@@ -329,48 +341,6 @@ Crafting Strong DX With Astro Components and TypeScript originally published on 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尊嘉开户得腾讯音乐股票和免佣金]]></title>
-        <id>67299-62</id>
-        <link href="https://xlog.app/api/redirection?characterId=67299&amp;noteId=62"/>
-        <updated>2025-04-01T02:11:11.000Z</updated>
-        <summary type="html"><![CDATA[尊嘉金融优势 🌟尊嘉特色：
- 平台费仅 1 港币 / 美金
- 不需要存量证明
- 开户即有 50w 账户安全保险
-
-4 月 6 号 - 7 月 6 号尊嘉活动🎁
-
-🎉首次净入资达标 1 万 HKD 领取
- 福利 1：港股终身免佣
- 福利 2：美股终身免佣
- 福利 3：A 股终身免佣
- 福…]]></summary>
-        <author>
-            <name>KowLoon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尊嘉开户得腾讯音乐股票和免佣金]]></title>
-        <id>67299-61</id>
-        <link href="https://xlog.app/api/redirection?characterId=67299&amp;noteId=61"/>
-        <updated>2025-04-01T02:11:11.000Z</updated>
-        <summary type="html"><![CDATA[尊嘉金融优势 🌟尊嘉特色：
- 平台费仅 1 港币 / 美金
- 不需要存量证明
- 开户即有 50w 账户安全保险
-
-4 月 6 号 - 7 月 6 号尊嘉活动🎁
-
-🎉首次净入资达标 1 万 HKD 领取
- 福利 1：港股终身免佣
- 福利 2：美股终身免佣
- 福利 3：A 股终身免佣
- 福…]]></summary>
-        <author>
-            <name>KowLoon</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Worlds Collide: Keyframe Collision Detection Using Style Queries]]></title>
         <id>https://css-tricks.com/?p=385188</id>
         <link href="https://css-tricks.com/worlds-collide-keyframe-collision-detection-using-style-queries/"/>
@@ -389,6 +359,19 @@ Worlds Collide: Keyframe Collision Detection Using Style Queries originally publ
         <summary type="html"><![CDATA[The beginning of the new month is the perfect opportunity to give your desktop a makeover. If you’re looking for some beautiful and unique wallpapers to cater for a bit of inspiration this April, well, this post has got you covered.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑苹果EFI傻瓜式生成]]></title>
+        <id>67299-66</id>
+        <link href="https://xlog.app/api/redirection?characterId=67299&amp;noteId=66"/>
+        <updated>2025-03-31T11:11:11.000Z</updated>
+        <summary type="html"><![CDATA[这么多年来，“无折腾，不黑果” 自从苹果开始把笔记本换成 arm 芯片后，intel 的黑苹果走向了末路，且行且珍惜
+ 黑苹果配置 efi 现在已经发展到傻瓜式，不需要啥啥的花钱去某宝鱼去找人配
+
+我们用到的工具叫做 RapidEFI，KOWLOON 就使用此工具为 10…]]></summary>
+        <author>
+            <name>KowLoon</name>
         </author>
     </entry>
     <entry>
@@ -448,16 +431,6 @@ Automated Visual Regression Testing With Playwright originally published on CSS-
 Case Study: Combining Cutting-Edge CSS Features Into a “Course Navigation” Component originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Previewing Content Changes In Your Work With document.designMode]]></title>
-        <id>https://smashingmagazine.com/2025/03/previewing-content-changes-work-documentdesignmode/</id>
-        <link href="https://smashingmagazine.com/2025/03/previewing-content-changes-work-documentdesignmode/"/>
-        <updated>2025-03-21T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[You probably already know that you can use developer tools in your browser to make on-the-spot changes to a webpage — simply click the node in the Inspector and make your edits. But have you tried `document.designMode`? Victor Ayomipo explains how it can be used to preview content changes and demonstrates several use cases where it comes in handy for everything from basic content editing to improving team collaboration.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
         </author>
     </entry>
 </feed>
