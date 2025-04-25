@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-24T01:44:46.462Z</id>
+    <id>urn:2025-04-25T01:45:57.592Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-24T01:44:46.462Z</updated>
+    <updated>2025-04-25T01:45:57.592Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How UX and Marketing Are Saying the Same Things, Differently]]></title>
+        <id>680aa2e68a164048d5799e47</id>
+        <link href="https://www.freecodecamp.org/news/how-ux-and-marketing-are-saying-the-same-things-differently/"/>
+        <updated>2025-04-24T20:45:26.000Z</updated>
+        <summary type="html"><![CDATA[Could it be that the key to designing a great product experience might be hidden in a 60-year-old marketing playbook? Well, for years, marketing and user experience (UX) have been treated as separate worlds. Marketing grabs attention and drives sales...]]></summary>
+        <author>
+            <name>Anamol Rajbhandari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code Your Own Llama 4 LLM from Scratch]]></title>
+        <id>680a97a8966c1c2bc7a60b19</id>
+        <link href="https://www.freecodecamp.org/news/code-your-own-llama-4-llm-from-scratch/"/>
+        <updated>2025-04-24T19:57:28.000Z</updated>
+        <summary type="html"><![CDATA[Large language models (LLMs) are at the forefront of modern artificial intelligence, enabling applications that can understand and generate human-like language. Meta's latest release, Llama 4, represents a significant advancement in this field, intro...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Information Gathering for Ethical Hackers — AutoRecon Tutorial]]></title>
+        <id>680a540ef12791f5c752af5e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-automate-information-gathering-for-ethical-hackers-autorecon-tutorial/"/>
+        <updated>2025-04-24T15:09:02.000Z</updated>
+        <summary type="html"><![CDATA[When you’re doing a penetration test, your first job is to understand the target. Before you touch a single exploit or send a single payload, you need to know what services are running, what ports are open, what technologies are in play, and where th...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Q in Django? (And Why It's Super Useful)]]></title>
+        <id>680a4adad2926105c84b08ae</id>
+        <link href="https://www.freecodecamp.org/news/what-is-q-in-django-and-why-its-super-useful/"/>
+        <updated>2025-04-24T14:29:46.000Z</updated>
+        <summary type="html"><![CDATA[If you're working with Django and writing queries, chances are you’ve bumped into a situation where you need to combine filters in a way that’s just... not straightforward. Maybe you're trying to search for users with a username or an email that matc...]]></summary>
+        <author>
+            <name>Udemezue John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Lost CSS Tricks of Cohost.org]]></title>
+        <id>https://css-tricks.com/?p=385855</id>
+        <link href="https://css-tricks.com/the-lost-css-tricks-of-cohost-org/"/>
+        <updated>2025-04-24T12:49:42.000Z</updated>
+        <summary type="html"><![CDATA[In this post, Blackle Mori shows you a few of the hacks found while trying to push the limits of Cohost’s HTML support. Use these if you dare, lest you too get labelled a CSS criminal.
+The Lost CSS Tricks of Cohost.org originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Blackle Mori</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boosting Up Your Creativity Without Endless Reference Scrolling]]></title>
+        <id>https://smashingmagazine.com/2025/04/neuroscience-designers-boost-creativity-endless-reference-scrolling/</id>
+        <link href="https://smashingmagazine.com/2025/04/neuroscience-designers-boost-creativity-endless-reference-scrolling/"/>
+        <updated>2025-04-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While it is clear that creativity is driven by both the left and right hemispheres, an important question remains: how can we boost creativity while keeping the process enjoyable? It may not be obvious, but non-design-related activities can, in fact, be an opportunity to enhance creativity.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Marina Chernyshova)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create an AI-Powered Bot that Can Post on Twitter/X]]></title>
         <id>680931204adb8ffdef48642a</id>
@@ -71,65 +132,6 @@
         <link href="https://www.freecodecamp.org/news/how-to-use-a-foreign-key-in-django/"/>
         <updated>2025-04-22T14:05:27.000Z</updated>
         <summary type="html"><![CDATA[When you're building something in Django – whether it's a blog, a to-do app, or even something way more complex – at some point, you'll want to connect different pieces of data. That’s where ForeignKey comes in. It helps link one model to another, li...]]></summary>
-        <author>
-            <name>Udemezue John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use PostgreSQL in Django]]></title>
-        <id>68079d18a34a9e3143fe9e56</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-postgresql-in-django/"/>
-        <updated>2025-04-22T13:43:52.000Z</updated>
-        <summary type="html"><![CDATA[If you’re building a Django project and wondering which database to use, PostgreSQL is a great choice. It’s reliable, fast, packed with powerful features, and works beautifully with Django. I’ve used it across multiple projects – from small web apps ...]]></summary>
-        <author>
-            <name>Udemezue John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write a Good Conference Talk Proposal – CFP Guide]]></title>
-        <id>68079cde283b1638560a2135</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-a-good-conference-talk-proposal/"/>
-        <updated>2025-04-22T13:42:54.000Z</updated>
-        <summary type="html"><![CDATA[When conferences organize events, they seek knowledgeable speakers to share insights that educate, inspire, and engage attendees. They discover and select speakers through a Call for Proposals (CFP), an open invitation for experts to submit talk idea...]]></summary>
-        <author>
-            <name>Sule-Balogun Olanrewaju</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Helium美國0月租号最新申請教程]]></title>
-        <id>67299-68</id>
-        <link href="https://xlog.app/api/redirection?characterId=67299&amp;noteId=68"/>
-        <updated>2025-04-22T11:11:11.000Z</updated>
-        <summary type="html"><![CDATA[Helium Mobile 是 0 月租的美國卡（可 ESIM） 理論可以免流，但是我一直沒找到訊號，無法測試
-
-但可以 wifi call
-
-想玩需要內測邀请码，否则只能 join waitlist
- 放一下我的邀请码：96G47TJ
-
-现在我的邀请码名额无限制了哈，可以随意注册
-
-指…]]></summary>
-        <author>
-            <name>KowLoon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Makes Code Vulnerable – And How to Fix It]]></title>
-        <id>680679690b7357fefc92cf6b</id>
-        <link href="https://www.freecodecamp.org/news/what-makes-code-vulnerable-and-how-to-fix-it/"/>
-        <updated>2025-04-21T16:59:21.000Z</updated>
-        <summary type="html"><![CDATA[Writing code is relatively easy. But writing secure code is much harder. The truth is, most developers don’t realize their code is vulnerable until something breaks. Or, worse, until someone attacks it. So if you want secure code, you first have to k...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Export Your Database in Django]]></title>
-        <id>680663026f6aa321e86950fd</id>
-        <link href="https://www.freecodecamp.org/news/how-to-export-your-database-in-django/"/>
-        <updated>2025-04-21T15:23:46.000Z</updated>
-        <summary type="html"><![CDATA[When you're working on a Django project – whether it's a small side project or a growing web app – there comes a point where you need to export your database. Maybe you’re switching hosting providers. Maybe you're backing things up or sharing data wi...]]></summary>
         <author>
             <name>Udemezue John</name>
         </author>
@@ -206,18 +208,6 @@ Using CSS backdrop-filter for UI Effects originally published on CSS-Tricks, whi
 Next Level CSS Styling for Cursors originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Declan Chidlow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ClawCloud 免费容器服务，可跑青龙面板]]></title>
-        <id>67299-67</id>
-        <link href="https://xlog.app/api/redirection?characterId=67299&amp;noteId=67"/>
-        <updated>2025-04-13T11:11:11.000Z</updated>
-        <summary type="html"><![CDATA[ClawCloud 免费容器服务，每月 5 美刀额度，可以跑青龙面板等 dokcer 容器 5 美元额度需要 180 天以上的 github 账号注册
- 此免费容器不需绑定信用卡！
- 注册链接：https://console.run.claw.cloud/signin?link…]]></summary>
-        <author>
-            <name>KowLoon</name>
         </author>
     </entry>
     <entry>
@@ -349,27 +339,6 @@ Crafting Strong DX With Astro Components and TypeScript originally published on 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尊嘉开户得腾讯音乐股票和免佣金]]></title>
-        <id>67299-65</id>
-        <link href="https://xlog.app/api/redirection?characterId=67299&amp;noteId=65"/>
-        <updated>2025-04-01T02:11:11.000Z</updated>
-        <summary type="html"><![CDATA[尊嘉金融优势 🌟尊嘉特色：
- 平台费仅 1 港币 / 美金
- 不需要存量证明
- 开户即有 50w 账户安全保险
-
-4 月 6 号 - 7 月 6 号尊嘉活动🎁
-
-🎉首次净入资达标 1 万 HKD 领取
- 福利 1：港股终身免佣
- 福利 2：美股终身免佣
- 福利 3：A 股终身免佣
- 福…]]></summary>
-        <author>
-            <name>KowLoon</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Worlds Collide: Keyframe Collision Detection Using Style Queries]]></title>
         <id>https://css-tricks.com/?p=385188</id>
         <link href="https://css-tricks.com/worlds-collide-keyframe-collision-detection-using-style-queries/"/>
@@ -388,19 +357,6 @@ Worlds Collide: Keyframe Collision Detection Using Style Queries originally publ
         <summary type="html"><![CDATA[The beginning of the new month is the perfect opportunity to give your desktop a makeover. If you’re looking for some beautiful and unique wallpapers to cater for a bit of inspiration this April, well, this post has got you covered.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑苹果EFI傻瓜式生成]]></title>
-        <id>67299-66</id>
-        <link href="https://xlog.app/api/redirection?characterId=67299&amp;noteId=66"/>
-        <updated>2025-03-31T11:11:11.000Z</updated>
-        <summary type="html"><![CDATA[这么多年来，“无折腾，不黑果” 自从苹果开始把笔记本换成 arm 芯片后，intel 的黑苹果走向了末路，且行且珍惜
- 黑苹果配置 efi 现在已经发展到傻瓜式，不需要啥啥的花钱去某宝鱼去找人配
-
-我们用到的工具叫做 RapidEFI，KOWLOON 就使用此工具为 10…]]></summary>
-        <author>
-            <name>KowLoon</name>
         </author>
     </entry>
     <entry>
@@ -432,23 +388,6 @@ Automated Visual Regression Testing With Playwright originally published on CSS-
         <summary type="html"><![CDATA[HTML `` is the de facto element we turn to for embedding video content, but it comes with constraints. For example, it downloads the video file linearly over HTTP, which leads to performance hiccups, especially for large videos consumed on slower connections. But with adaptive bitrate streaming, we can split the video into multiple segments at different bitrates and resolutions.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Teng Wei Herr)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[港股交易费用对比]]></title>
-        <id>67299-59</id>
-        <link href="https://xlog.app/api/redirection?characterId=67299&amp;noteId=59"/>
-        <updated>2025-03-27T02:11:11.000Z</updated>
-        <summary type="html"><![CDATA[综合对比来看： 尊嘉交易费用最低，只有 1HKD
-盈宝和长桥在 1000 股以上其次，都是 15HKD
-
-尊嘉专属：
- 尊嘉专属渠道码：BDJT35
- 或者点击此处直达：
-
-盈宝专属开户链接： https://www.winbulls.com/s/index.html?key…]]></summary>
-        <author>
-            <name>KowLoon</name>
         </author>
     </entry>
 </feed>
