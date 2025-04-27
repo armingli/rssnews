@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-26T01:41:26.019Z</id>
+    <id>urn:2025-04-27T01:49:44.795Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-26T01:41:26.019Z</updated>
+    <updated>2025-04-27T01:49:44.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -147,25 +147,6 @@ The Lost CSS Tricks of Cohost.org originally published on CSS-Tricks, which is p
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Helium美國0月租号最新申請教程]]></title>
-        <id>67299-68</id>
-        <link href="https://xlog.app/api/redirection?characterId=67299&amp;noteId=68"/>
-        <updated>2025-04-22T11:11:11.000Z</updated>
-        <summary type="html"><![CDATA[Helium Mobile 是 0 月租的美國卡（可 ESIM） 理論可以免流，但是我一直沒找到訊號，無法測試
-
-但可以 wifi call
-
-想玩需要內測邀请码，否则只能 join waitlist
- 放一下我的邀请码：96G47TJ
-
-现在我的邀请码名额无限制了哈，可以随意注册
-
-指…]]></summary>
-        <author>
-            <name>KowLoon</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What Does It Really Mean For A Site To Be Keyboard Navigable]]></title>
         <id>https://smashingmagazine.com/2025/04/what-mean-site-be-keyboard-navigable/</id>
         <link href="https://smashingmagazine.com/2025/04/what-mean-site-be-keyboard-navigable/"/>
@@ -237,18 +218,6 @@ Using CSS backdrop-filter for UI Effects originally published on CSS-Tricks, whi
 Next Level CSS Styling for Cursors originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Declan Chidlow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ClawCloud 免费容器服务，可跑青龙面板]]></title>
-        <id>67299-67</id>
-        <link href="https://xlog.app/api/redirection?characterId=67299&amp;noteId=67"/>
-        <updated>2025-04-13T11:11:11.000Z</updated>
-        <summary type="html"><![CDATA[ClawCloud 免费容器服务，每月 5 美刀额度，可以跑青龙面板等 dokcer 容器 5 美元额度需要 180 天以上的 github 账号注册
- 此免费容器不需绑定信用卡！
- 注册链接：https://console.run.claw.cloud/signin?link…]]></summary>
-        <author>
-            <name>KowLoon</name>
         </author>
     </entry>
     <entry>
@@ -380,27 +349,6 @@ Crafting Strong DX With Astro Components and TypeScript originally published on 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尊嘉开户得腾讯音乐股票和免佣金]]></title>
-        <id>67299-65</id>
-        <link href="https://xlog.app/api/redirection?characterId=67299&amp;noteId=65"/>
-        <updated>2025-04-01T02:11:11.000Z</updated>
-        <summary type="html"><![CDATA[尊嘉金融优势 🌟尊嘉特色：
- 平台费仅 1 港币 / 美金
- 不需要存量证明
- 开户即有 50w 账户安全保险
-
-4 月 6 号 - 7 月 6 号尊嘉活动🎁
-
-🎉首次净入资达标 1 万 HKD 领取
- 福利 1：港股终身免佣
- 福利 2：美股终身免佣
- 福利 3：A 股终身免佣
- 福…]]></summary>
-        <author>
-            <name>KowLoon</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Worlds Collide: Keyframe Collision Detection Using Style Queries]]></title>
         <id>https://css-tricks.com/?p=385188</id>
         <link href="https://css-tricks.com/worlds-collide-keyframe-collision-detection-using-style-queries/"/>
@@ -422,19 +370,6 @@ Worlds Collide: Keyframe Collision Detection Using Style Queries originally publ
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[黑苹果EFI傻瓜式生成]]></title>
-        <id>67299-66</id>
-        <link href="https://xlog.app/api/redirection?characterId=67299&amp;noteId=66"/>
-        <updated>2025-03-31T11:11:11.000Z</updated>
-        <summary type="html"><![CDATA[这么多年来，“无折腾，不黑果” 自从苹果开始把笔记本换成 arm 芯片后，intel 的黑苹果走向了末路，且行且珍惜
- 黑苹果配置 efi 现在已经发展到傻瓜式，不需要啥啥的花钱去某宝鱼去找人配
-
-我们用到的工具叫做 RapidEFI，KOWLOON 就使用此工具为 10…]]></summary>
-        <author>
-            <name>KowLoon</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Automated Visual Regression Testing With Playwright]]></title>
         <id>https://css-tricks.com/?p=385297</id>
         <link href="https://css-tricks.com/automated-visual-regression-testing-with-playwright/"/>
@@ -443,16 +378,6 @@ Worlds Collide: Keyframe Collision Detection Using Style Queries originally publ
 Automated Visual Regression Testing With Playwright originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Frederik Dohr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Argue Against AI-First Research]]></title>
-        <id>https://smashingmagazine.com/2025/03/how-to-argue-against-ai-first-research/</id>
-        <link href="https://smashingmagazine.com/2025/03/how-to-argue-against-ai-first-research/"/>
-        <updated>2025-03-28T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Companies have been turning their attention to “synthetic,” AI-driven user testing. However, as convenient as it might seem, it’s dangerous, expensive, and usually diminishes user value. Let’s take a closer look at why exactly it is problematic and how we can argue against it to make a case for UX research with real users. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
