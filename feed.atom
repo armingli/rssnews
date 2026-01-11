@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-10T01:55:43.701Z</id>
+    <id>urn:2026-01-11T02:08:17.359Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-10T01:55:43.701Z</updated>
+    <updated>2026-01-11T02:08:17.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Run an LLM Locally to Interact with Your Documents]]></title>
+        <id>69619f7198022932a4f500a0</id>
+        <link href="https://www.freecodecamp.org/news/run-an-llm-locally-to-interact-with-your-documents/"/>
+        <updated>2026-01-10T00:38:09.000Z</updated>
+        <summary type="html"><![CDATA[Most AI tools require you to send your prompts and files to third-party servers. That’s a non-starter if your data includes private journals, research notes, or sensitive business documents (contracts, board decks, HR files, financials). The good new...]]></summary>
+        <author>
+            <name>Zoe Isabel Senón</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Local-First CLI Financial Tracker with Rust [Full Handbook]]]></title>
+        <id>696183e6f3839d7c9a8133ff</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-local-first-cli-financial-tracker-with-rust/"/>
+        <updated>2026-01-09T22:40:38.000Z</updated>
+        <summary type="html"><![CDATA[Most financial apps store your sensitive data on remote servers. This requires you to trust a company with your records and rely on their service staying online. But if you build a local-first application, you can keep your data on your own machine i...]]></summary>
+        <author>
+            <name>Stephen Emmanuel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build an In-Memory Rate Limiter in Next.js]]></title>
         <id>696155ea25d7491ccd74da74</id>
@@ -96,23 +116,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build an AI-Powered Flutter App with Google Antigravity: A Hands-On Tutorial]]></title>
-        <id>695e974f4085b2f621c87405</id>
-        <link href="https://www.freecodecamp.org/news/build-an-ai-powered-flutter-app-with-google-antigravity/"/>
-        <updated>2026-01-07T17:26:39.000Z</updated>
-        <summary type="html"><![CDATA[As a Flutter developer who’s building a cloud-based ecosystem for digital media lifecycle management, I’m constantly looking for ways to speed up the transition from idea to prototype. In November 2025, Google launched antigravity, a new interactive ...]]></summary>
+        <title type="html"><![CDATA[Future CSS: :drag (and Maybe ::dragged-image?)]]></title>
+        <id>https://css-tricks.com/?p=390960</id>
+        <link href="https://css-tricks.com/future-css-drag-and-maybe-dragged-image/"/>
+        <updated>2026-01-07T15:16:47.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever struggled to style an element while it's being dragged? Sunkanmi explains some ways it could become easier in the future.
+Future CSS: :drag (and Maybe ::dragged-image?) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
-            <name>Anna Muzykina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Real-Time Systems for Web Developers: From Theory to a Live Go + React App]]></title>
-        <id>695e96b3ee29df356daaf7c0</id>
-        <link href="https://www.freecodecamp.org/news/real-time-systems-for-web-developers-from-theory-to-a-live-go-react-app/"/>
-        <updated>2026-01-07T17:24:03.000Z</updated>
-        <summary type="html"><![CDATA[Many developers think that “real-time” is about Websockets, Live data, or instant refreshes on web application dashboards. And although these concepts are closely related to what real-time means, the systems engineering definition is a bit different....]]></summary>
-        <author>
-            <name>Emmanuel Etukudo</name>
+            <name>Sunkanmi Fafowora</name>
         </author>
     </entry>
     <entry>
@@ -123,6 +134,17 @@
         <summary type="html"><![CDATA[Most developers spend their days fixing bugs, shipping features, and jumping into the next sprint without even thinking about it. After a while, you begin to ask yourself, “Is this still what I want to be doing?” This article looks at how you can move into a new direction in your career without starting from scratch, and how the skills you already use, like problem-solving, communication, and empathy, can open new doors.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Joas Pambou)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the Best of CSS Bluesky, and More]]></title>
+        <id>https://css-tricks.com/?p=391298</id>
+        <link href="https://css-tricks.com/whats-important-2/"/>
+        <updated>2025-12-31T16:18:23.000Z</updated>
+        <summary type="html"><![CDATA[2026 is almost upon us. I know we’re all itching to see the clock strike midnight (cue The Final Countdown by Europe), but not without recapping the best CSS-related things that happened over the last two weeks!
+What’s !important #2: Conditional View Transitions, CSS/SVG Text Effects, the Best of CSS Bluesky, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -146,6 +168,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Thank You (2025 Edition)]]></title>
+        <id>https://css-tricks.com/?p=391203</id>
+        <link href="https://css-tricks.com/thank-you-2025-edition/"/>
+        <updated>2025-12-23T15:52:53.000Z</updated>
+        <summary type="html"><![CDATA[This is the best job I've had in my life and it's only possible because you keep showing up each day to read, learn, share, and discuss all-things-front-end (and a little CSS, of course) with us.
+Thank You (2025 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Giving Users A Voice Through Virtual Personas]]></title>
         <id>https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/</id>
         <link href="https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/"/>
@@ -153,6 +186,28 @@
         <summary type="html"><![CDATA[Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[text-decoration-inset is Like Padding for Text Decorations]]></title>
+        <id>https://css-tricks.com/?p=390681</id>
+        <link href="https://css-tricks.com/text-decoration-inset-is-like-padding-for-text-decorations/"/>
+        <updated>2025-12-22T14:39:52.000Z</updated>
+        <summary type="html"><![CDATA[The text-decoration-inset property solves a problem that we’ve had since the beginning of the web, which is that text decorations such as underlines extend beyond the first and last characters, resulting in vertical misalignment.
+text-decoration-inset is Like Padding for Text Decorations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Masonry Layout is Now grid-lanes]]></title>
+        <id>https://css-tricks.com/?p=390640</id>
+        <link href="https://css-tricks.com/masonry-layout-is-now-grid-lanes/"/>
+        <updated>2025-12-19T16:08:28.000Z</updated>
+        <summary type="html"><![CDATA[It's settled! A new CSS display property keyword called grid-lanes will trigger a masonry layout mode.
+Masonry Layout is Now grid-lanes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
         </author>
     </entry>
     <entry>
@@ -166,6 +221,28 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Search CSS-Tricks Raycast Extension]]></title>
+        <id>https://css-tricks.com/?p=391171</id>
+        <link href="https://css-tricks.com/search-css-tricks-raycast-extension/"/>
+        <updated>2025-12-18T15:34:23.000Z</updated>
+        <summary type="html"><![CDATA[Jelte Lagendijk built a Raycast extension for searching CSS-Tricks articles where you simply type and a get a solid set of real-time results.
+Search CSS-Tricks Raycast Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Responsive List of Avatars Using Modern CSS (Part 2)]]></title>
+        <id>https://css-tricks.com/?p=390660</id>
+        <link href="https://css-tricks.com/responsive-list-of-avatars-using-modern-css-part-2/"/>
+        <updated>2025-12-17T15:21:34.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we follow up the work we did to create responsive rows of circular images in a previous article by arranging the images around a circle with a clean hover effect.
+Responsive List of Avatars Using Modern CSS (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Smashing Animations Part 7: Recreating Toon Text With CSS And SVG]]></title>
         <id>https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/</id>
         <link href="https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/"/>
@@ -173,6 +250,50 @@
         <summary type="html"><![CDATA[In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles](https://stuffandnonsense.co.uk/toon-text/index.html) using modern CSS and SVG.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andy Clarke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and More]]></title>
+        <id>https://css-tricks.com/?p=391134</id>
+        <link href="https://css-tricks.com/whats-important-1/"/>
+        <updated>2025-12-16T17:03:46.000Z</updated>
+        <summary type="html"><![CDATA[The best CSS news from around the web from the last two weeks. In this edition: advent calendars, CSS Wrapped 2025, and the latest Web Platform Updates.
+What’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toon Title Text Generator]]></title>
+        <id>https://css-tricks.com/?p=391095</id>
+        <link href="https://css-tricks.com/toon-title-text-generator/"/>
+        <updated>2025-12-15T17:55:55.000Z</updated>
+        <summary type="html"><![CDATA[Andy Clarke with a brand-new resource. It generates the sort of fun typography that Andy commonly uses in his own work that's geared towards cartoon headings.
+Toon Title Text Generator originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Responsive List of Avatars Using Modern CSS (Part 1)]]></title>
+        <id>https://css-tricks.com/?p=390560</id>
+        <link href="https://css-tricks.com/responsive-list-of-avatars-using-modern-css-part-1/"/>
+        <updated>2025-12-15T16:19:23.000Z</updated>
+        <summary type="html"><![CDATA[A list of rounded images that slightly overlap each other is a classic web design pattern. The main idea is not complex, but the new thing is the responsive part. that dynamically adjusts the overlap between the images so they fit inside the container.
+Responsive List of Avatars Using Modern CSS (Part 1) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Else Could Container Queries… Query?]]></title>
+        <id>https://css-tricks.com/?p=390654</id>
+        <link href="https://css-tricks.com/what-else-could-container-queries-query/"/>
+        <updated>2025-12-12T14:38:18.000Z</updated>
+        <summary type="html"><![CDATA[How far can we really go with container queries? There are dozens of media queries now, so what if there were dozens of container queries as well? What could we use them for?
+What Else Could Container Queries… Query? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>
